@@ -24,7 +24,7 @@ install.packages("readxl")
 ```
 
 ### Fork and Clone the Repository
-Obtain this source code by cloning this repository. If you need help cloning this repository, [please consult GitHub's official documentation on cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Alternatively, if you want to track changes to the code for your own purposes, please fork and clone this repository.
+Obtain this source code by cloning this repository. If you need help cloning this repository, [please consult GitHub's official documentation on cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Alternatively, if you want to track changes to the code for your own purposes, please add the step of forking before you clone this repository.
 
 ### Create Folder Structure
 To keep input files, output files, and code separate this script uses the following folders for its related files. All paths are relative to the folder where you place this script after you clone it.
