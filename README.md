@@ -1,8 +1,6 @@
 # reds-recall-index-correlations
 ## Purpose of the Repository
-Code repository to accompany "Genetic regulation of carnitine metabolism controls lipid damage repair and aging RBC hemolysis in vivo and in vitro."
-
-The code is in the form of one R markdown file that, when executed, generates plots of recall versus index metabolite abundances.
+This is a repository to accompany "Genetic regulation of carnitine metabolism controls lipid damage repair and aging RBC hemolysis in vivo and in vitro." The code is in the form of one R markdown file that, when executed, generates plots of recall versus index metabolite abundances.
 
 ## Assumptions
 To use this code, the user will need the following skills:
