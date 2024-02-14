@@ -48,7 +48,7 @@ Create an RStudio project associated with your cloned repository with the `input
 Load `all_correlations.Rmd` in RStudio and select the "Session > Restart R and run all chunks" menu option.
 
 ### Observe the output
-Find the plots of the correlations in `output/plots/` and the `.csv` files in `output/`. 
+Find the plots of the correlations in `output/plots/` and the `.csv` files in `output/`.
 
 ## Publication Credits
 ### Title
