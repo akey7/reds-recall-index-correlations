@@ -47,3 +47,26 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Markdown, HTML, and PDF
+*.md
+*.html
+
+# macOS junk
+.DS_Store
+
+# Everything in input and output data as they are stored elsewhere
+input/
+output/
+intermediate/
+
+# Ignore intermediate files
+*.zip
+*.rds
+*.gif
+
+# Ignore the .Rproj folders
+*.Rproj
+
+# Ignore environment files
+.Renviron
